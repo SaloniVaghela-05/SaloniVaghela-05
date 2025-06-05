@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SaloniVaghela-05
+- 👀 I’m interested in just learning new stuff.
+- 🌱 I’m currently learning Mathematics and Computing.
+- 📫 How to reach me : salonivaghela0510@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: In another universe I am a kangaroo.
