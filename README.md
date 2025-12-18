@@ -13,5 +13,10 @@
 - OOPs, DSA, OS 📊.
 - Math: Linear Algebra, calculus, Discrete Mathematics, PDEs 💀.
 
-  
-- Just in case u wanna talk: salonivaghela0510@gmail.com.
+# Connect with me:
+- Linkedin:  <a href="https://www.linkedin.com/in/saloni-vaghela05/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>
+- Just in case u wanna talk: [salonivaghela0510@gmail.com](mailto:salonivaghela0510@gmail.com)
+
+
+
+
