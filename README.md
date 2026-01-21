@@ -1,4 +1,4 @@
-# What's better than vibe-coding?
+# What's better than mood-coding?
 - Just a nerd who fell into the Programming World 🦉.
 - Bugs fear me 🐞.
 - Fun fact: In another universe, I am a kangaroo 🦘.
