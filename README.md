@@ -6,7 +6,7 @@
 
 ---
 
-## ^_^ About Me
+## 🤖 About Me
 
 - 🎓 2nd Year **BTech student in Mathematics & Computing** at **Dhirubhai Ambani University**
 - 🌱 Currently learning new technologies and sharpening my problem-solving skills
@@ -14,28 +14,47 @@
 - 💡 Always curious, always building!
 
 ---
-
 ## 🛠️ Tech Stack And Tools
+
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Frontend -->
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+  <!-- Backend -->
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <!-- Database -->
+
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Tools -->
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 Other Profiles
+
+## 🧠 DSA Profiles
 
 - 🔗 LeetCode: https://leetcode.com/u/saloni_051006/  
 - 🔗 Codeforces: https://codeforces.com/profile/s_005
 
 ## 📬 Let's Connect!
 
-<p align="left">
-  <a href="https://github.com/SaloniVaghela-05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/saloni-vaghela05">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -46,8 +65,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaloniVaghela-05&color=ff69b4&style=flat-square" alt="Profile views" />
-</p>
 
 <p align="center">⚡ <i>" Gotta Do More. Gotta Be More.."</i> -DPS⚡</p>
