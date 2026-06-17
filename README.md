@@ -8,7 +8,7 @@
 
 ## 🤖 About Me
 
-- 🎓 2nd Year **BTech student in Mathematics & Computing** at **Dhirubhai Ambani University**
+- 🎓 **BTech student in Mathematics & Computing** at **Dhirubhai Ambani University**
 - 🌱 Currently learning new technologies and sharpening my problem-solving skills
 - 🧬 Exploring the intersection of **Algorithmic Logic** and **Computational Mathematics**.
 - 💡 Always curious, always building!
